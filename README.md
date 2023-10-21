@@ -1,2 +1,2 @@
 # Chi2
- Statistical tests and data processing For noisR.
+ Statistical tests and data processing for noisR.
